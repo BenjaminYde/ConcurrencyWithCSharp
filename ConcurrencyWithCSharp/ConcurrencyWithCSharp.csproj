@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>ConcurrencyWithCSharp._03_DataParallelism._6ThreadStorage</StartupObject>
+    <StartupObject>ConcurrencyWithCSharp._04_PLINQ._01AsParallel</StartupObject>
     </PropertyGroup>
 
 </Project>
