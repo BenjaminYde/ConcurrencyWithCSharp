@@ -11,6 +11,7 @@ namespace ConcurrencyWithCSharp._04_PLINQ
         {
             BasicWork_Sequential();
             BasicWork_AsParallel();
+            
             HardWork_Sequential();
             HardWork_Parallel();
         }
